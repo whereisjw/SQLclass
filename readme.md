@@ -22,3 +22,7 @@
 - 서버가 종료된 후에도 별도의 시스템에서 유지
 - 여러 사람이 한꺼번에 접속하여 공유하는 형태
 - 실시간(realtime) 서비스로 운영
+
+## 3. MySQL, Workbench 설치
+
+- 다운로드 : https://dev.mysql.com/downloads/installer
